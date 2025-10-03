@@ -2,10 +2,12 @@
 
 A machine learning portfolio project that predicts laptop prices based on specifications using classical ML algorithms with robust feature engineering and a clean Streamlit UI.
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.28.0-red.svg)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.0-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28.0-red.svg)](https://streamlit.io/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.0-orange.svg)](https://scikit-learn.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Code style: PEP8](https://img.shields.io/badge/code%20style-PEP8-blue.svg)](https://www.python.org/dev/peps/pep-0008/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/A-jcodes/Laptop-price-prediction/graphs/commit-activity)
 
 ## 🌟 Features
 
@@ -41,6 +43,15 @@ streamlit run app.py
 ```
 
 4. Open your browser and navigate to `http://localhost:8501`
+
+## 📚 Documentation
+
+- **[Setup Guide](SETUP.md)** - Detailed installation and setup instructions
+- **[Portfolio Overview](PORTFOLIO.md)** - Complete project structure and workflow
+- **[Features Documentation](FEATURES.md)** - Comprehensive feature list
+- **[API Reference](API.md)** - Complete API documentation for all modules
+- **[Demo Guide](DEMO.md)** - Screenshots and usage walkthrough
+- **[Contributing Guidelines](CONTRIBUTING.md)** - How to contribute to the project
 
 ## 📊 Dataset
 
