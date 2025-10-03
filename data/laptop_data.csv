@@ -1,0 +1,16 @@
+laptop_name,brand,processor,ram,storage,screen_size,os,gpu,price
+Dell Laptop 1,Dell,Intel Core i5 11th Gen,8GB,512GB,15.6 inches,Windows 11,Intel Integrated,699.99
+HP Laptop 2,HP,Intel Core i7 11th Gen,16GB,512GB,14.0 inches,Windows 11,NVIDIA GTX 1650,1099.50
+Lenovo Laptop 3,Lenovo,AMD Ryzen 5 5000,8GB,256GB,15.6 inches,Windows 10,AMD Radeon,649.00
+Apple Laptop 4,Apple,Apple M1,8GB,256GB,13.3 inches,macOS,Apple GPU,999.00
+Asus Laptop 5,Asus,Intel Core i7 11th Gen,16GB,1TB,15.6 inches,Windows 11,NVIDIA RTX 3050,1299.99
+Acer Laptop 6,Acer,Intel Core i3 10th Gen,4GB,256GB,14.0 inches,Windows 10,Intel Integrated,449.00
+MSI Laptop 7,MSI,Intel Core i9 12th Gen,32GB,1TB,17.3 inches,Windows 11,NVIDIA RTX 3060,2199.99
+Dell Laptop 8,Dell,Intel Core i5 11th Gen,8GB,512GB,14.0 inches,Windows 11,Intel Integrated,729.50
+HP Laptop 9,HP,AMD Ryzen 7 5000,16GB,512GB,15.6 inches,Windows 11,AMD Radeon,999.00
+Lenovo Laptop 10,Lenovo,Intel Core i5 11th Gen,8GB,512GB,15.6 inches,Windows 11,NVIDIA GTX 1650,899.99
+Apple Laptop 11,Apple,Apple M2,16GB,512GB,13.3 inches,macOS,Apple GPU,1499.00
+Asus Laptop 12,Asus,Intel Core i9 12th Gen,32GB,2TB,17.3 inches,Windows 11,NVIDIA RTX 3060,2499.00
+Acer Laptop 13,Acer,Intel Core i5 11th Gen,8GB,256GB,15.6 inches,Windows 10,Intel Integrated,599.00
+MSI Laptop 14,MSI,Intel Core i7 11th Gen,16GB,1TB,15.6 inches,Windows 11,NVIDIA RTX 3050,1399.99
+Dell Laptop 15,Dell,AMD Ryzen 5 5000,8GB,512GB,14.0 inches,Ubuntu,AMD Radeon,699.00
