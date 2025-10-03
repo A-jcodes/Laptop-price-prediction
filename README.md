@@ -28,7 +28,13 @@ This project uses **machine learning** to predict laptop prices with accuracy an
 Some highlights from the analysis:
 - Higher **RAM** and **SSD** significantly increase price.  
 - Premium brands (Apple, MSI, Razer) are priced higher.  
-- **IPS panels** and higher **PPI** values are associated with higher prices.  
+- **IPS panels** and higher **PPI** values are associated with higher prices.
+
+- <img width="1771" height="1101" alt="ram_median_price" src="https://github.com/user-attachments/assets/6879a027-6b27-4827-9d16-41f79a636add" />
+<img width="1707" height="1101" alt="price_hist" src="https://github.com/user-attachments/assets/8c6eb231-4f74-4fc9-8431-7fa56594b306" />
+<img width="1771" height="1101" alt="ppi_vs_price" src="https://github.com/user-attachments/assets/c91a3e5f-2c98-4480-8c8d-09a905d2e593" />
+<img width="1771" height="1157" alt="brand_median_price" src="https://github.com/user-attachments/assets/c90ec5bb-1966-477b-ab7e-5a4cd390be41" />
+
 
 **Example Plots:**  
 - Price distribution histogram.  
